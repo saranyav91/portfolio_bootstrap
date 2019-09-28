@@ -81,7 +81,6 @@ hr {
 .row2-1 {
   border: 2px solid #dddddd;
   background-color: white;
-  width: 960px;
   margin: auto;
   margin-top: 45px;
   margin-bottom: 45px;
@@ -169,7 +168,7 @@ input[type=message], select {
 }
 
 input[type=submit] {
-  width: 12%;
+  width: 50%;
   background-color:#4aaaa5;
   color: white;
   padding: 10px 25px;
