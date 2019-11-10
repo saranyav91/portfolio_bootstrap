@@ -1,11 +1,9 @@
-# portfolio_bootstrap
+# updated Portfolio
 Name:
-Bootstrap components added to Portfolio project
+Updating Portfolio page, along with updating it with LinkedIn, Github, Resume link and link to project and assignments.
 
 Descripton:
-This project is about modifying the previous portfolio project to include bootstrap css framework. This is to ensure that we have a responsive layout. We also include navbars and other bootstrap components and enable the webpage to resize according to the screen size.
-
-We use Bootstrap's grid system (containers, rows, and columns). On an xs screen, the content should take up the entire screen. On sm and larger screens, we should have some margins on the left and right sides of the screen. 
+This assignment is about updating all professional accounts and creating a portfolio page.
 
 Visuals:
 
@@ -13,20 +11,18 @@ Visuals:
 Here are some screenshots:
 
 
-640px
-![Image1](assets/images/640_index_1.jpg)
-![Image2](assets/images/640_index_2.jpg)
+ 
+![Image1](assets/images/8_snap1.PNG)
 
-768px
-![Image3](assets/images/768_index.jpg)
 
-980px
-![Image4](assets/images/980_index.jpg)
+![Image2](assets/images/8_snap2.PNG)
+
+ 
 
 
 Installation:
 
-This webpage is available as my github page whose link is https://saranyav91.github.io/portfolio_bootstrap/
+This webpage is available as my github page whose link is https://saranyav91.github.io/updated_portfolio/
 
 Usage:
 
