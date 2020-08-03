@@ -15,7 +15,7 @@ Education
 
 **Degree : Indian Institute of Technology Madras, Chennai, TamilNadu** (2009-2013)
 
-- Bachelors Degree, Chemical Engineering,
+- Bachelor's Degree, Chemical Engineering,
 - Obtained a BRANCH POSITION OF 1 in a class of 70, with an overall CGPA 9.03 and received the Reliance Heat transfer award for the same, on the 50th convocation at IIT Madras.  
 
 
